@@ -23,8 +23,10 @@
     ```
 1. Steam -> Games -> Add a Non-Steam Game to My Library...
 1. Mods:
-    - [Skinwalkers](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
     - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+    - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+    - [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
+    - [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
     - [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/)
     - [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/)
     - [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/)
