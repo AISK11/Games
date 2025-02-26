@@ -28,6 +28,7 @@
     - [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
 1. Moons:
     - [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)
+    - [WesleysInteriors](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/WesleysInteriors/)
     - [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/)
     - [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/)
     - [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/)
