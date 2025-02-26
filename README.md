@@ -4,4 +4,7 @@
 
 ## Steam
 
-- [Lethal Comapny](games/lethal-company.md)
+- [Civilization VI](games/civilization-vi/index.md)
+- [Dota 2](games/dota-2/index.md)
+- [Lethal Comapny](games/lethal-company/index.md)
+- [Northgard](games/northgard/index.md)
