@@ -26,7 +26,8 @@
     - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
     - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
     - [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
-    - [SpectateEnemies](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/)
+1. Moons:
+    - [Wesleys Moons](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Moons/)
     - [Orion](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/)
     - [Celest](https://thunderstore.io/c/lethal-company/p/sfDesat/Celest/)
     - [Aquatis](https://thunderstore.io/c/lethal-company/p/sfDesat/Aquatis/)
