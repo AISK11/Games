@@ -26,6 +26,7 @@
     - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
     - [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
     - [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
-    - [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+	- [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
     - [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
     - [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
+    - [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
