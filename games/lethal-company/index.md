@@ -10,7 +10,6 @@
 
 ### General
 
-1. Launch options: none
 1. Compatibility: Proton 9.0-4
 
 ### Mods
