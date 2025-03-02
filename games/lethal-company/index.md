@@ -19,15 +19,27 @@
 1. Make AppImage executable and run with special options:
 	```sh
 	chmod +x *.AppImage
-	./r2modman*.AppImage --no-sandbox
 	```
 1. Steam -> Games -> Add a Non-Steam Game to My Library...
 	- Launch options: `--no-sandbox`
-1. Mods:
+
+## Mods
+
+1. QoL:
+	- [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+	- [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+1. UI:
+	- [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+	- [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
+1. Misc:
+	- [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
+1. Hardcore:
+	- [DimmingFlashlights](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)
+	- [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
+	- [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
+	- [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
+	- [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 	- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
 	- [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
-	- [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
-	- [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
-	- [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
-	- [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+	- [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
