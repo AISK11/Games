@@ -42,4 +42,5 @@
 	- [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 	- [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
 	- [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
+	- [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
 	- [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
