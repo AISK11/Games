@@ -34,7 +34,7 @@
 1. Misc:
 	- [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
 1. Hardcore:
-	- [DimmingFlashlights](https://thunderstore.io/c/lethal-company/p/blink9803/DimmingFlashlights/)
+	- [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/)
 	- [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
 	- [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
 	- [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
