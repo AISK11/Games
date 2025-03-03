@@ -20,7 +20,7 @@
 	chmod +x *.AppImage
 	```
 1. Steam -> Games -> Add a Non-Steam Game to My Library...
-	- Launch options: `--no-sandbox`
+	- Shortcut -> LAUNCH OPTIONS: `--no-sandbox`
 
 ## Mods
 
