@@ -49,7 +49,7 @@
 
 - [x] [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/)
 	- `BepInEx/config/FadingFlashlights.cfg`
-		- FadeStart: 1
+		- FadeStart: 0
 		- FadeFunctionExponent: 0
 - [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
 - [ ] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
