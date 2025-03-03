@@ -59,7 +59,7 @@
 		- OK
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
 	- `BepInEx/config/LethalPresents.cfg`
-		- OK
+		- SpawnChance: 50
 - [ ] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- ???
@@ -67,14 +67,14 @@
 	- `BepInEx/config/x753.Mimics.cfg`
 		- Perfect Mimics: true
 - [x] [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
-	 - `BepInEx/config/Mirage.Enemies.cfg`
-		-
+	- `BepInEx/config/Mirage.Enemies.cfg`
+		- OK
 	- `BepInEx/config/Mirage.General.cfg`
-		-
+		- Mimic voice while hiding: true
 - [x] [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
 	- `BepInEx/config/qwbarch.MirageRevive.cfg`
-		-
+		- Revive chance: 100
 - [ ] [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
 	- `BepInEx/config/niceh.Symbiosis.cfg`
-		-
+		- OK
 - [ ] [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
