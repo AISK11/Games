@@ -58,7 +58,7 @@
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
-- [ ] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
+- [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
 		- MalfunctionPassedDaysTeleporter: 1
