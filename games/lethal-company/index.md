@@ -60,7 +60,7 @@
 		- FadeStart: 0
 		- FadeFunctionExponent: 0
 - [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
-- [ ] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
+- [x] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
 		- OK
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
