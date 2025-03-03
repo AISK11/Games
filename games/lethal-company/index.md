@@ -28,11 +28,17 @@
 ### Quality of Life
 
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
-- [ ] [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
-- [ ] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- [x] [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
+- [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
+		- OK
 - [ ] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
-- [ ] [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/)
-- [ ] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
+	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
+		- ???
+- [x] [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/)
+		- `BepInEx/config/atomic.terminalclock.cfg`
+			- OK
+- [x] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
