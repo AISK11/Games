@@ -62,7 +62,13 @@
 		- SpawnChance: 50
 - [ ] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
-		- ???
+		- MalfunctionPassedDaysNavigation: 1
+		- MalfunctionPassedDaysTeleporter: 1
+		- MalfunctionPassedDaysDistortion: 1
+		- MalfunctionPassedDaysDoor: 1
+		- MalfunctionPassedDaysLever: 1
+		- MalfunctionPassedDaysPower: 1
+		- MalfunctionPenaltyOnly: true
 - [x] [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
 	- `BepInEx/config/x753.Mimics.cfg`
 		- Perfect Mimics: true
