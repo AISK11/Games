@@ -55,8 +55,6 @@
 - [ ] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
 		- OK
-	- `BepInEx/config/ghostCodes.InsanityMode.cfg`
-		- OK
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
@@ -83,4 +81,3 @@
 - [ ] [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
 	- `BepInEx/config/niceh.Symbiosis.cfg`
 		- OK
-- [ ] [ghostCodes](https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/)
