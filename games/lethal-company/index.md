@@ -15,12 +15,13 @@
 ### Mods
 
 1. Download [r2modmanPlus](https://github.com/ebkr/r2modmanPlus/releases/) (AppImage).
-1. Make AppImage executable and run with special options:
+1. Make AppImage executable:
 	```sh
 	chmod +x *.AppImage
 	```
-1. Steam -> Games -> Add a Non-Steam Game to My Library...
-	- Shortcut -> LAUNCH OPTIONS: `--no-sandbox`
+1. Launch AppImage via Steam:
+	1. Steam -> Games -> Add a Non-Steam Game to My Library...
+	1. Shortcut -> LAUNCH OPTIONS: `--no-sandbox`
 
 ## Mods
 
@@ -48,6 +49,7 @@
 
 - [x] [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/)
 	- `BepInEx/config/FadingFlashlights.cfg`
+		- FadeStart: 1
 		- FadeFunctionExponent: 0
 - [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
 - [ ] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
