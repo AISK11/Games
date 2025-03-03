@@ -30,6 +30,8 @@
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
 - [x] [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
 - [x] [ItemQuickSwitchFix](https://thunderstore.io/c/lethal-company/p/PaLaS0/ItemQuickSwitchFix/)
+	- `BepInEx/config/PaLaS0.ItemQuickSwitchMod.cfg`
+		- OK
 - [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
