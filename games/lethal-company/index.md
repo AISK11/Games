@@ -28,19 +28,21 @@
 ### Quality of Life
 
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+- [ ] [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
+- [ ] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- [ ] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+- [ ] [Terminal Clock](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/)
+- [ ] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
 
-### User Interface
+### Miscellaneous
 
 - [x] [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
 	- `BepInEx/config/com.elitemastereric.coroner.cfg`
 		- OK
 - [x] [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
-
-### Miscellaneous
-
 - [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
 	- `BepInEx/config/Junypai.GamblersMod.cfg`
 		- Number Of Machines: 4
