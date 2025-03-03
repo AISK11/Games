@@ -65,6 +65,7 @@
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
+- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
