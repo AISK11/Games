@@ -28,6 +28,9 @@
 ### Quality of Life
 
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+- [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
+		- OK
 - [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
@@ -45,9 +48,6 @@
 - [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
 	- `BepInEx/config/Junypai.GamblersMod.cfg`
 		- Number Of Machines: 4
-- [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
-	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
-		- OK
 
 ### Hardcore
 
