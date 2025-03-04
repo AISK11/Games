@@ -28,17 +28,9 @@
 ### Quality of Life
 
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
-- [x] [ItemQuickSwitchFix](https://thunderstore.io/c/lethal-company/p/PaLaS0/ItemQuickSwitchFix/)
-	- `BepInEx/config/PaLaS0.ItemQuickSwitchMod.cfg`
-		- OK
 - [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
-- [x] [PlayerHUDTweaks](https://thunderstore.io/c/lethal-company/p/Swaggies/PlayerHUDTweaks/)
-	- `BepInEx/config/Swaggies.PlayerHUDTweaks.cfg`
-		- Battery Number.Enabled = true
-		- Health Image Dynamic Fill.Update Every Frame = true
-		- Weight Counter Tweaks.Weight Unit = Kilograms
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
@@ -64,7 +56,8 @@
 		- FadeFunctionExponent: 0
 - [x] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
-		- OK
+		- Notifications for sanity levels.: false
+		- Max player count for sanity loss scaling.: 4
 - [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
@@ -87,6 +80,16 @@
 		- Revive chance: 100
 
 ## Mods - TEST
+
+- [x] [ItemQuickSwitchFix](https://thunderstore.io/c/lethal-company/p/PaLaS0/ItemQuickSwitchFix/)
+	- `BepInEx/config/PaLaS0.ItemQuickSwitchMod.cfg`
+		- OK
+- [x] [PlayerHUDTweaks](https://thunderstore.io/c/lethal-company/p/Swaggies/PlayerHUDTweaks/)
+	- `BepInEx/config/Swaggies.PlayerHUDTweaks.cfg`
+		- Battery Number.Enabled = true
+		- Health Image Dynamic Fill.Update Every Frame = true
+		- Weight Counter Tweaks.Weight Unit = Kilograms
+
 
 ### Miscellaneous
 
