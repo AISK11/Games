@@ -28,13 +28,17 @@
 ### Quality of Life
 
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
-- [x] [HealthMetrics](https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/)
 - [x] [ItemQuickSwitchFix](https://thunderstore.io/c/lethal-company/p/PaLaS0/ItemQuickSwitchFix/)
 	- `BepInEx/config/PaLaS0.ItemQuickSwitchMod.cfg`
 		- OK
 - [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
+- [x] [PlayerHUDTweaks](https://thunderstore.io/c/lethal-company/p/Swaggies/PlayerHUDTweaks/)
+	- `BepInEx/config/Swaggies.PlayerHUDTweaks.cfg`
+		- Battery Number.Enabled = true
+		- Health Image Dynamic Fill.Update Every Frame = true
+		- Weight Counter Tweaks.Weight Unit = Kilograms
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
@@ -58,14 +62,9 @@
 	- `BepInEx/config/FadingFlashlights.cfg`
 		- FadeStart: 0
 		- FadeFunctionExponent: 0
-- [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
 - [x] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
 		- OK
-- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
-	- `BepInEx/config/LethalPresents.cfg`
-		- SpawnChance: 50
-- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
@@ -86,6 +85,20 @@
 - [x] [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
 	- `BepInEx/config/qwbarch.MirageRevive.cfg`
 		- Revive chance: 100
+
+## Mods - TEST
+
+### Miscellaneous
+
+- [ ] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)
+
+### Hardcore
+
+- [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
+- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
+	- `BepInEx/config/LethalPresents.cfg`
+		- SpawnChance: 50
+- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [ ] [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
 	- `BepInEx/config/niceh.Symbiosis.cfg`
 		- OK
