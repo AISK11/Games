@@ -81,16 +81,6 @@
 
 ## Mods - TEST
 
-- [x] [ItemQuickSwitchFix](https://thunderstore.io/c/lethal-company/p/PaLaS0/ItemQuickSwitchFix/)
-	- `BepInEx/config/PaLaS0.ItemQuickSwitchMod.cfg`
-		- OK
-- [x] [PlayerHUDTweaks](https://thunderstore.io/c/lethal-company/p/Swaggies/PlayerHUDTweaks/)
-	- `BepInEx/config/Swaggies.PlayerHUDTweaks.cfg`
-		- Battery Number.Enabled = true
-		- Health Image Dynamic Fill.Update Every Frame = true
-		- Weight Counter Tweaks.Weight Unit = Kilograms
-
-
 ### Miscellaneous
 
 - [ ] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)
