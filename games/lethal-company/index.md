@@ -27,7 +27,7 @@
 
 ### Quality of Life
 
-- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (==CS==)
+- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (`CS`)
 - [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) (`CS`)
 	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
 		- OK
