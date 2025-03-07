@@ -27,39 +27,45 @@
 
 ### Quality of Life
 
-- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
-- [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (`CS`)
+- [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) (`CS`)
 	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
 		- OK
-- [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
+- [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/) (`CS`)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
-- [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
+- [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (`CS`)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
-- [x] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
+- [x] [BetterTerminal](https://thunderstore.io/c/lethal-company/p/Computerdores/BetterTerminal/) (`CS`)
 
 ### Miscellaneous
 
-- [x] [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/)
+- [x] [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) (`CS`)
 	- `BepInEx/config/com.elitemastereric.coroner.cfg`
 		- OK
-- [x] [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
-- [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
+- [x] [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/) (`SS`)
+- [x] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/) (`CS`)
+- [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/) ()
 	- `BepInEx/config/Junypai.GamblersMod.cfg`
 		- Number Of Machines: 4
 
 ### Hardcore
 
-- [x] [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/)
+- [x] [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/) (`CS`)
 	- `BepInEx/config/FadingFlashlights.cfg`
 		- FadeStart: 0
 		- FadeFunctionExponent: 0
-- [x] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/)
+- [x] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/) (`CS`)
+- [x] [InsanityRemastered](https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/) (`CS`)
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
 		- Notifications for sanity levels.: false
 		- Max player count for sanity loss scaling.: 4
-- [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/)
+- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
+	- `BepInEx/config/LethalPresents.cfg`
+		- SpawnChance: 50
+- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) (`CS`)
+- [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) ()
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
 		- MalfunctionPassedDaysTeleporter: 1
@@ -68,31 +74,17 @@
 		- MalfunctionPassedDaysLever: 1
 		- MalfunctionPassedDaysPower: 1
 		- MalfunctionPenaltyOnly: true
-- [x] [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+- [x] [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (`SS`)
 	- `BepInEx/config/x753.Mimics.cfg`
 		- Perfect Mimics: true
-- [x] [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/)
+- [x] [Mirage](https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/) (`CS`)
 	- `BepInEx/config/Mirage.Enemies.cfg`
 		- OK
 	- `BepInEx/config/Mirage.General.cfg`
 		- Mimic voice while hiding: true
-- [x] [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/)
+- [x] [MirageRevive](https://thunderstore.io/c/lethal-company/p/qwbarch/MirageRevive/) (`CS`)
 	- `BepInEx/config/qwbarch.MirageRevive.cfg`
 		- Revive chance: 100
-
-## Mods - TEST
-
-### Miscellaneous
-
-- [ ] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)
-
-### Hardcore
-
-- [ ] [HidePlayerNames](https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/)
-- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
-	- `BepInEx/config/LethalPresents.cfg`
-		- SpawnChance: 50
-- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
-- [ ] [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/)
+- [ ] [Symbiosis](https://thunderstore.io/c/lethal-company/p/NiceHairs/Symbiosis/) (`CS`)
 	- `BepInEx/config/niceh.Symbiosis.cfg`
 		- OK
