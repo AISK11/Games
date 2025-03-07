@@ -27,7 +27,7 @@
 
 ### Quality of Life
 
-- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (`CS`)
+- [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (==CS==)
 - [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) (`CS`)
 	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
 		- OK
@@ -46,7 +46,7 @@
 		- OK
 - [x] [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/) (`SS`)
 - [x] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/) (`CS`)
-- [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/) ()
+- [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/) (`SS`)
 	- `BepInEx/config/Junypai.GamblersMod.cfg`
 		- Number Of Machines: 4
 
@@ -65,7 +65,7 @@
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
 - [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) (`CS`)
-- [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) ()
+- [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) (`SS`)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
 		- MalfunctionPassedDaysTeleporter: 1
