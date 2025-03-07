@@ -61,7 +61,7 @@
 	- `BepInEx/config/BudgetAirpods.InsanityRemastered.cfg`
 		- Notifications for sanity levels.: false
 		- Max player count for sanity loss scaling.: 4
-- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/)
+- [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/) (`CS`)
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
 - [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) (`CS`)
