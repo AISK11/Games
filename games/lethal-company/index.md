@@ -27,6 +27,7 @@
 
 ### Quality of Life
 
+- [x] [BetterTerminal](https://thunderstore.io/c/lethal-company/p/Computerdores/BetterTerminal/) (`CS`)
 - [x] [FlashlightToggle](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (`CS`)
 - [x] [Helmet Cameras](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) (`CS`)
 	- `BepInEx/config/RickArg.lethalcompany.helmetcameras.cfg`
@@ -37,7 +38,6 @@
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (`CS`)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
-- [x] [BetterTerminal](https://thunderstore.io/c/lethal-company/p/Computerdores/BetterTerminal/) (`CS`)
 
 ### Miscellaneous
 
@@ -64,7 +64,7 @@
 - [ ] [LethalPresents](https://thunderstore.io/c/lethal-company/p/Azim/LethalPresents/) (`CS`)
 	- `BepInEx/config/LethalPresents.cfg`
 		- SpawnChance: 50
-- [ ] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) (`CS`)
+- [x] [LETHALRESONANCE](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/) (`CS`)
 - [x] [Malfunctions](https://thunderstore.io/c/lethal-company/p/zealsprince/Malfunctions/) (`SS`)
 	- `BepInEx/config/com.zealsprince.malfunctions.cfg`
 		- MalfunctionPassedDaysNavigation: 1
