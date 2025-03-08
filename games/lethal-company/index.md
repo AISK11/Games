@@ -38,6 +38,8 @@
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
 		- OK
 - [x] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
+	- `BepInEx/config/atomic.terminalapi.cfg`
+		- OK
 
 ### Miscellaneous
 
@@ -45,13 +47,13 @@
 	- `BepInEx/config/com.elitemastereric.coroner.cfg`
 		- OK
 - [x] [CoronerMimics](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/CoronerMimics/)
-- [x] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)
 - [x] [GamblingMachineAtTheCompany](https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/)
 	- `BepInEx/config/Junypai.GamblersMod.cfg`
 		- Number Of Machines: 4
 
 ### Hardcore
 
+- [x] [DisableShipVote](https://thunderstore.io/c/lethal-company/p/KoogeesMods/DisableShipVote/)
 - [x] [FadingFlashlights](https://thunderstore.io/c/lethal-company/p/Dolphin2Point0/FadingFlashlights/)
 	- `BepInEx/config/FadingFlashlights.cfg`
 		- FadeStart: 0
