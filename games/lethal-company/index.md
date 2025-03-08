@@ -34,11 +34,11 @@
 - [x] [LCBetterClock](https://thunderstore.io/c/lethal-company/p/BlueAmulet/LCBetterClock/)
 	- `BepInEx/config/BlueAmulet.BetterClock.cfg`
 		- 24Hours: true
+- [x] [LethalAutocomplete](https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/)
+	- `BepInEx/config/redeye.lethalautocomplete.cfg`
+		- OK
 - [x] [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 	- `BepInEx/config/com.github.tinyhoot.ShipLoot.cfg`
-		- OK
-- [x] [Terminal History](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_History/)
-	- `BepInEx/config/atomic.terminalapi.cfg`
 		- OK
 
 ### Miscellaneous
